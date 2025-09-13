@@ -1,0 +1,5 @@
+{
+  "name": "Smart Quiz Bot",
+  "description": "An AI-powered quiz bot that generates questions to test your knowledge.",
+  "requestFramePermissions": []
+}
